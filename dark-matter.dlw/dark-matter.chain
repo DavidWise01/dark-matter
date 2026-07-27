@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 557
 slug  : dark-matter
-seal  : 32829f20c22ba432af5a2e48cedc08e400fe2d1819caea008928dd3e3f888970
-prev  : 537fcad354a231dfe224202483a0796b0b2ebd23d6c7f24c4f50c672d015381b
-link  : 136677d006ad7f39eb8a879b7c30d01130c8920e372af2ec155d946eb5700051
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : c18713d4eed114b81a36a5f4af89ab3030fd5a18634d43d2018c47f60004e9d6
+prev  : c7fc6a3c6c1288f6d57854e4a277cb6f9a1836be576246f982883781b87eba07
+link  : bd3cd461743b8b23fb178949748d3f0c77a02b0c0f72fc7cf5eb5de5daed059d
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
